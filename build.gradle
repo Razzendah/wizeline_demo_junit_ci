@@ -27,7 +27,7 @@ tasks.named('test') {
 sonarqube {
 	properties {
 		property "sonar.projectKey", "Razzendah_wizeline_demo_junit_ci"
-		property "sonar.organization", "Razzendah"
+		property "sonar.organization", "3k58y0vbpqpl703phvvor48dikbzmyjwn9qexdr10urfe8r0z7"
 		property "sonar.host.url", "https://sonarcloud.io"
 	}
 }
